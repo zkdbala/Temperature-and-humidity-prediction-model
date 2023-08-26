@@ -1,0 +1,7 @@
+keras
+numpy
+pandas
+python-dotenv
+requests
+streamlit
+tensorflow
